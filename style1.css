@@ -31,11 +31,17 @@ main > section button {
     border-radius: 1px;
     color: white;
     font-family: Helvetica;
-    font-size: 18px;
+    font-size: 12px;
     font-weight: 500;
-    letter-spacing: normal;
-    line-height: 20px;
+    letter-spacing: -0,6px;
+    line-height: 15px;
     padding: 9px 23px;
     text-transform: uppercase;
-    
+}
+
+#detalhes-container {
+    font-weight: bold;
+    height: 30px;
+    list-style-type: none;
+    width: 90%; 
 }
