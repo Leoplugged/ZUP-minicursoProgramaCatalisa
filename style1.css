@@ -1,4 +1,4 @@
-body{
+body {
     background-image: linear-gradient(
         180deg,
         #6495ED 5%,
@@ -11,7 +11,7 @@ body{
     width: 100%;
 } 
 
-main{
+main {
     align-items: center;
     display: flex;
     height: 100vh;
@@ -42,17 +42,18 @@ main > section button {
 #detalhes-container {
     color: white;
     font-family: Helvetica;
-    font-weight: bold;
-    height: 60px;
+    height: 150px;
     list-style-type: none;
-    width: 90%; 
+    width: 90%;
 }
 
 #detalhes-container > li {
     align-items: baseline;
     display: flex;
+    font-size: 18px;
 }
 
 #detalhes-container > li p {
-    color: gray;
+    color: navy;
+    font-weight: bold;
 }
