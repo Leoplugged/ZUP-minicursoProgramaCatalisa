@@ -33,15 +33,17 @@ main > section button {
     font-family: Helvetica;
     font-size: 12px;
     font-weight: 500;
-    letter-spacing: -0,6px;
+    letter-spacing: normal;
     line-height: 15px;
     padding: 9px 23px;
     text-transform: uppercase;
 }
 
 #detalhes-container {
+    color: white;
+    font-family: Helvetica;
     font-weight: bold;
-    height: 30px;
+    height: 60px;
     list-style-type: none;
     width: 90%; 
 }
