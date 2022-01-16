@@ -50,6 +50,6 @@ main > section button {
 }
 
 #detalhes-container > li p {
-    color: navy;
+    color: rgb(21, 16, 32);
     font-weight: bold;
 }
