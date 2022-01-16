@@ -75,4 +75,7 @@ pegarPersonagem2 = () => {
     });
 }
 
-botao.onclick = pegarPersonagem;
+let element = document.getElementById('botao');
+element.addEventListener('click', pegarPersonagem);
+element.addEventListener('click', pegarPersonagem1);
+element.addEventListener('click', pegarPersonagem2);
