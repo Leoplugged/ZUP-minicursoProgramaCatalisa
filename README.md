@@ -1,2 +1,2 @@
 # minicurso
-Minicurso do Catalisa 2022 - Como consumir a API do Rick and Morty
+Minicurso do Programa Catalisa 2022 da Zup - Como consumir a API do Rick and Morty
